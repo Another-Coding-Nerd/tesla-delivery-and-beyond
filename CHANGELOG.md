@@ -1,5 +1,12 @@
 # Changelog
 
+## 2026-10-27
+### Changed
+- `02-delivery-day.md` restructured into four sections: Delivery Day Mindset, Exterior Inspection, Interior Inspection, Functional Checks
+### Added
+- Video walk-around with timestamps tip to Delivery Day Mindset
+- Autopilot camera calibration check to Functional Checks
+
 ## 2026-10-22
 ### Added
 - `tips/` subdirectory with three new reference files: `settings.md` (recommended first-week settings), `features.md` (feature guide — Juniper-specific, climate, nav, FSD), `voice-commands.md` (quick-reference tables)

@@ -1,6 +1,6 @@
 # Delivery Day
 
-## How to Approach It
+## Delivery Day Mindset
 
 - [ ] Budget real time — a thorough pass through this list easily takes
       90+ minutes. Don't rush because staff seem eager to move you along;
@@ -19,6 +19,11 @@
       uncharged, and staff are stretched thin. The quality of the
       experience (and sometimes the car) drops noticeably. If your window
       is flexible, aim for early-to-mid quarter.
+- [ ] **Do a video walk-around with timestamps before you sign anything** —
+      walk slowly around the entire car filming on your phone. The timestamp
+      baked into the video proves condition at delivery and covers you if
+      something surfaces after you drive off. Faster than photographing
+      every panel individually and captures context a static photo misses.
 - [ ] Don't sign final documents or wire remaining funds until you've
       completed a full inspection — once signed, you've accepted the car
       as-is for anything outside warranty coverage.
@@ -77,7 +82,9 @@
       tells you battery chemistry (**E** = Li-ion/NMC, **F** = LFP) —
       readable before you even get in the car.
 
-## Exterior — Before You're Given Access (locked)
+## Exterior Inspection
+
+### Before You're Given Access (locked)
 
 - [ ] Headlight fit.
 - [ ] Paint around the front bumper's intake vents.
@@ -121,7 +128,7 @@
       > missing.
 - [ ] Alignment/gaps around headlights, trunk arms, roof, frunk.
 
-## Exterior — Panel Gaps & Paint Walkaround (doors closed)
+### Panel Gaps & Paint Walkaround (doors closed)
 
 Do a full lap, checking for misalignment, gaps, scrapes, dents, overspray,
 or underspray — trim and door handles included:
@@ -136,7 +143,7 @@ or underspray — trim and door handles included:
       rear wheel, left rear door, driver's door, left front wheel, left
       front quarter panel, frunk — each individually, for scrapes/damage.
 
-## Exterior — With All Doors, Frunk, and Trunk Open
+### With All Doors, Frunk, and Trunk Open
 
 - [ ] Power liftgate operates and height-adjusts correctly (sometimes the
       weather seal catches in the molding, causing a click).
@@ -154,7 +161,7 @@ or underspray — trim and door handles included:
 - [ ] Charge port door opens/closes correctly via manual tap, the screen/
       app, and the charger button; charge port indicator light works.
 
-## Glass & Seals
+### Glass & Seals
 
 - [ ] All glass, including side mirrors: no distortion, ripples,
       scratches, or cracks.
@@ -171,7 +178,25 @@ or underspray — trim and door handles included:
       > Known issue: loose seal on driver door bottom — fix is a service
       > center replacement.
 
-## Interior
+### Frunk
+
+- [ ] Opens and closes properly.
+- [ ] Trim clips around the frunk are all attached.
+- [ ] Tow hook is included (stowed under the frunk mat).
+- [ ] Cargo covers (if any) are properly attached.
+- [ ] Rear seat covers are properly attached.
+
+### Lighting Summary
+
+(Cross-check against the exterior sections above — this is the full list
+in one place if doing a dedicated lighting pass.)
+
+- [ ] Front headlights (low/high beam) — alignment, no condensation.
+- [ ] Front park lights, front fog lights.
+- [ ] Turn on hazards: front, left/right, and rear turn signals; rear
+      running lights; rear brake lights — no condensation in housings.
+
+## Interior Inspection
 
 **Sit in the driver's seat:**
 
@@ -264,16 +289,18 @@ or underspray — trim and door handles included:
       to its base.
 - [ ] Rear left/right overhead lights work.
 
-## Frunk
+## Functional Checks
 
-- [ ] Opens and closes properly.
-- [ ] Trim clips around the frunk are all attached.
-- [ ] Tow hook is included (stowed under the frunk mat).
-- [ ] Cargo covers (if any) are properly attached.
-- [ ] Rear seat covers are properly attached.
-
-## Charging
-
+- [ ] Both key cards pair and unlock the car — test lock and unlock before
+      leaving the lot; keep one on your person in case the phone app
+      misbehaves.
+- [ ] Smartphone pairs over Bluetooth; music streaming, unlock, and app
+      features work.
+- [ ] **Autopilot cameras — check calibration status** — cameras may need
+      a short drive to fully calibrate after delivery, but the status
+      should show no errors. Find it somewhere under Controls > Service;
+      the exact menu path varies by software version. Flag any persistent
+      calibration failures to the delivery rep before signing.
 - [ ] Vehicle accepts a charge at the delivery-center Supercharger, if
       available.
 - [ ] Mobile Connector (with NEMA 5-15/14-50 adapters) and J1772 adapter
@@ -284,22 +311,6 @@ or underspray — trim and door handles included:
 - [ ] Express Pickup note: cars leave the factory around ~50% charge; the
       local delivery location should charge to 80–90% before handoff —
       confirm this if picking up same-day.
-
-## Lighting Summary
-
-(Cross-check against the exterior sections above — this is the full list
-in one place if doing a dedicated lighting pass.)
-
-- [ ] Front headlights (low/high beam) — alignment, no condensation.
-- [ ] Front park lights, front fog lights.
-- [ ] Turn on hazards: front, left/right, and rear turn signals; rear
-      running lights; rear brake lights — no condensation in housings.
-
-## Connectivity / Pairing
-
-- [ ] Both key cards work with the vehicle — keep one on your person in
-      case the phone app misbehaves.
-- [ ] Smartphone pairs over Bluetooth; music streaming, unlock, etc. work.
 
 ## Upcoming Features
 
