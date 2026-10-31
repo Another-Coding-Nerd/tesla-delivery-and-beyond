@@ -47,6 +47,12 @@
       on which phone approaches. To add a driver without a physical key
       handoff: Tesla app > Security & Drivers > Add Driver — sends them
       a link to download the app and pair their own phone key.
+      > **Co-registered owners don't get automatic access.** If a
+      > co-buyer registered the vehicle jointly, they may open the app
+      > and find nothing there — the car isn't visible, keys can't pair.
+      > The primary account holder must still explicitly add them as a
+      > driver via the steps above. Don't assume co-registration = app
+      > access; do this before you leave the delivery center.
 - [ ] **Set forward collision warning to Early** (Controls > Autopilot >
       Forward Collision Warning) — gives you the maximum reaction time if
       the car detects a potential collision ahead. No reason to leave it on

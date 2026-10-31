@@ -1,5 +1,10 @@
 # Changelog
 
+## 2026-10-31
+### Added
+- First-boot setup wizard note to Functional Checks in `02-delivery-day.md` (FSD ack → phone key → seat/mirrors/save → Bluetooth priority device)
+- Co-registered owner access gotcha to driver profiles item in `03-first-24-hours.md`
+
 ## 2026-10-27
 ### Changed
 - `02-delivery-day.md` restructured into four sections: Delivery Day Mindset, Exterior Inspection, Interior Inspection, Functional Checks

@@ -291,6 +291,15 @@ in one place if doing a dedicated lighting pass.)
 
 ## Functional Checks
 
+- [ ] **Let the first-boot setup wizard run** — on first power-on the car
+      walks you through: FSD supervised acknowledgment → phone key pairing
+      → seat position → steering wheel + mirror adjustment → Bluetooth
+      media/phone connection. Don't skip it. Two things to confirm before
+      moving on: (1) hit **Save** on mirrors and steering wheel so the car
+      retains those positions in your driver profile; (2) set your phone
+      as the **priority device** in Bluetooth settings so the car knows
+      whose profile to load when your phone approaches.
+
 - [ ] Both key cards pair and unlock the car — test lock and unlock before
       leaving the lot; keep one on your person in case the phone app
       misbehaves.
