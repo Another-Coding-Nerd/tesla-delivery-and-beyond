@@ -185,7 +185,7 @@ or underspray — trim and door handles included:
       > Known issue: loose seal on driver door bottom — fix is a service
       > center replacement.
 
-### Frunk
+### Frunk & Trunk
 
 - [ ] Opens and closes properly.
 - [ ] Liner sits flat; latch catches cleanly.
