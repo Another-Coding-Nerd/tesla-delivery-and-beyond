@@ -1,5 +1,14 @@
 # Changelog
 
+## 2026-11-20
+### Added
+- `02-delivery-day.md`: light-bar seams, handles flush, frunk emergency release visible, cargo floor panel check, cabin light strip alignment, child-seat anchors, camera glass (transport film), NACS inlet confirmation, tire repair kit — from third-party app checklist reconciliation
+### Changed
+- `02-delivery-day.md`: door swing enhanced (open twice, check seal rub); wipers expanded to include washer fluid spray test; key card check updated to include console reader tap; phone-as-key walk test added to Bluetooth item; charge port fit merged with handles flush
+- `02-delivery-day.md`: Forward Collision Warning moved from `03-first-24-hours.md` to Functional Checks with note that it works in manual driving
+- `03-first-24-hours.md`: co-owner app access gotcha added to driver profiles item; second driver must save seat/mirror positions to their profile
+- `04-day-to-day.md`: mountain pass regen note added (trip planner accounts for elevation; recovery well under half of climb cost; full-battery regen cutout)
+
 ## 2026-10-31
 ### Added
 - First-boot setup wizard note to Functional Checks in `02-delivery-day.md` (FSD ack → phone key → seat/mirrors/save → Bluetooth priority device)

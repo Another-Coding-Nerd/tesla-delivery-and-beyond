@@ -306,6 +306,22 @@ issues are behind you. A few things worth keeping an eye on over time:
       the model and conditions, range can drop 20–30% in winter (heat pump
       models lose less). Cross-check real-world winter data for your
       specific trim before relying on the full rated range for a long trip.
+- [ ] **Mountain passes cost more than they give back — the trip planner
+      knows this** — climbing a significant pass draws substantially more
+      energy than you recover descending the other side. Recovery is well
+      under half of what you spent: aerodynamic drag and rolling
+      resistance going up are completely unrecoverable on the way down,
+      and motor conversion losses compound on top of that. A rough
+      real-world ballpark: spend ~10% climbing, recover ~4% descending.
+      Tesla's trip planner accounts for elevation and grade when
+      computing Supercharger stop placement; trust it, especially on
+      mountain routes. The one gotcha: if you arrive at the top of a
+      long descent with a full (or near-full) battery, the battery has
+      no room to absorb regen energy and regenerative braking cuts out
+      — you'll see "Regenerative braking limited" and the car shifts to
+      friction brakes for the descent. Leave room in the pack before a
+      long downhill; targeting ~70–80% at the top rather than 100%
+      keeps regen available the whole way down.
 - [ ] **Expect weaker regen braking on a cold start** — you'll see a
       "Regenerative braking limited" alert until the battery warms up,
       meaning you'll need the physical brake pedal more than usual right

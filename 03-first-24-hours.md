@@ -46,17 +46,17 @@
       loads the right seat/mirror/climate settings automatically based
       on which phone approaches. To add a driver without a physical key
       handoff: Tesla app > Security & Drivers > Add Driver — sends them
-      a link to download the app and pair their own phone key.
+      a link to download the app and pair their own phone key. Once
+      added, **each driver must sit in the car, adjust seat position,
+      mirrors, and steering wheel to their preference, then hit Save**
+      — that's what the profile actually stores. The auto-switching is
+      only useful if each profile has saved positions to return to.
       > **Co-registered owners don't get automatic access.** If a
       > co-buyer registered the vehicle jointly, they may open the app
       > and find nothing there — the car isn't visible, keys can't pair.
       > The primary account holder must still explicitly add them as a
       > driver via the steps above. Don't assume co-registration = app
       > access; do this before you leave the delivery center.
-- [ ] **Set forward collision warning to Early** (Controls > Autopilot >
-      Forward Collision Warning) — gives you the maximum reaction time if
-      the car detects a potential collision ahead. No reason to leave it on
-      the default late setting.
 - [ ] **Turn on "Apply brakes when regen is limited"** (Controls > Dynamics)
       — when the battery is cold or near full, regenerative braking weakens
       and the car can feel like it has no engine braking. This setting

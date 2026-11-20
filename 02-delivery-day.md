@@ -114,7 +114,11 @@
       > redesigned Juniper-era full-width taillight doesn't have this
       > specific defect reported; if buying pre-refresh inventory, still
       > worth checking.
-- [ ] Charging port fit (driver's side).
+- [ ] **Light-bar seams** — both the front and rear light bars should sit
+      evenly in their housings with no popped clips or dark segments. Run
+      your eye along the full length of each bar.
+- [ ] Charging port fit (driver's side); door handles sit flush — nothing
+      sticking out or sitting in a pocket.
 - [ ] Tail lights for condensation.
 - [ ] Undercarriage — look for scratches, dents, damage, missing
       components, missing screws, or screws sticking out.
@@ -148,7 +152,8 @@ or underspray — trim and door handles included:
 - [ ] Power liftgate operates and height-adjusts correctly (sometimes the
       weather seal catches in the molding, causing a click).
 - [ ] All doors (including frunk/trunk) open and close without unusual
-      effort or sound.
+      effort or sound — open and close each one twice; they should latch
+      fully and not rub the weather seal.
 - [ ] Door windows auto-close completely when doors close.
 - [ ] Frunk/trunk lighting works (2 trunk lights).
 - [ ] Check paint in normally-hidden areas: door hinges, bottom of
@@ -157,7 +162,9 @@ or underspray — trim and door handles included:
       checking for condensation inside the housing), tail lights, reverse,
       brake (checking for condensation), turn signals (front/left/right/
       rear), running lights.
-- [ ] Wipers function correctly; check hood for wiper dings.
+- [ ] Wipers and washers — spray the windshield and run the wipers;
+      fluid should reach the glass and the blades should clear it
+      cleanly. Also check the hood for wiper dings.
 - [ ] Charge port door opens/closes correctly via manual tap, the screen/
       app, and the charger button; charge port indicator light works.
 
@@ -181,10 +188,15 @@ or underspray — trim and door handles included:
 ### Frunk
 
 - [ ] Opens and closes properly.
+- [ ] Liner sits flat; latch catches cleanly.
+- [ ] Emergency release is visible (glow-in-the-dark button on the inner
+      wall — confirm it's there before you need it).
 - [ ] Trim clips around the frunk are all attached.
 - [ ] Tow hook is included (stowed under the frunk mat).
 - [ ] Cargo covers (if any) are properly attached.
 - [ ] Rear seat covers are properly attached.
+- [ ] **Lift the cargo floor** — the panel underneath should be seated
+      flat; any included storage tray should be in the car.
 
 ### Lighting Summary
 
@@ -226,7 +238,9 @@ in one place if doing a dedicated lighting pass.)
 - [ ] Front seat ventilation works, if equipped (Juniper-era front seats
       add ventilation in addition to heating).
 - [ ] Ambient lighting strip cycles through colors/settings correctly, if
-      equipped (Juniper-era cabin).
+      equipped (Juniper-era cabin). Also check that the strips meet
+      cleanly across the dash, doors, and rear of the cabin — gaps or
+      misaligned seams are a physical fit issue, not a software one.
 - [ ] Steering wheel control lights work (may need enabling in Driver
       settings).
 - [ ] Wireless phone charging works on both charging pad positions.
@@ -279,6 +293,9 @@ in one place if doing a dedicated lighting pass.)
 - [ ] Puddle lights (driver/passenger), rear door pocket lighting, door
       latch button lights, door window button lights all work.
 - [ ] Front, rear, and middle seatbelts operate properly.
+- [ ] **Child-seat anchors** — locate the lower LATCH anchors and the top
+      tether anchor for each rear seating position. They should be
+      reachable and unobstructed.
 - [ ] Rear left/right clothing hook operation in the back seat area.
 - [ ] Rear seats fold down correctly via seat/trunk buttons (power-folding
       on Juniper-era cars — listen for correct motor operation), and don't
@@ -300,18 +317,37 @@ in one place if doing a dedicated lighting pass.)
       as the **priority device** in Bluetooth settings so the car knows
       whose profile to load when your phone approaches.
 
-- [ ] Both key cards pair and unlock the car — test lock and unlock before
-      leaving the lot; keep one on your person in case the phone app
+- [ ] Both key cards pair and unlock the car — tap each card on the door
+      pillar and on the center console reader; both locations should wake
+      the car. Keep one card on your person in case the phone app
       misbehaves.
 - [ ] Smartphone pairs over Bluetooth; music streaming, unlock, and app
-      features work.
+      features work. Test phone-as-key specifically: walk away from the
+      car (without opening the app) — it should lock; walk back up — it
+      should unlock.
+- [ ] **Camera glass** — the windshield area directly in front of the
+      forward-facing cameras should be clean with no transport film,
+      haze, or residue. A dirty patch here degrades camera performance
+      immediately; ask the delivery rep to clean it if needed.
+- [ ] **Confirm the charge inlet is NACS** — all 2025+ US Model Y use
+      the NACS (Tesla-native) port. Visually confirm the inlet shape
+      matches your charging equipment and any included adapter.
 - [ ] **Autopilot cameras — check calibration status** — cameras may need
       a short drive to fully calibrate after delivery, but the status
       should show no errors. Find it somewhere under Controls > Service;
       the exact menu path varies by software version. Flag any persistent
       calibration failures to the delivery rep before signing.
+- [ ] **Set Forward Collision Warning to Early before you drive off**
+      (Controls > Autopilot > Forward Collision Warning) — gives maximum
+      reaction time when the car detects a potential collision. Works in
+      manual driving, not just Autopilot; the Autopilot menu is just
+      where Tesla buried the setting. No reason to leave it on the
+      default Late.
 - [ ] Vehicle accepts a charge at the delivery-center Supercharger, if
       available.
+- [ ] **Tire repair kit present** — find the inflator/sealant kit in the
+      cargo well (under the trunk floor). There is no spare wheel; this
+      kit is your roadside flat option.
 - [ ] Mobile Connector (with NEMA 5-15/14-50 adapters) and J1772 adapter
       are included — check under the frunk mat or in the trunk. Standard
       on North American deliveries as of the Juniper refresh regardless
