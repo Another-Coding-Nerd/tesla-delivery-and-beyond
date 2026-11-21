@@ -75,12 +75,6 @@
       - **Digit 11** — factory: **A** = Austin TX, **B** = Berlin,
         **C** = Shanghai, **F** = Fremont CA
 - [ ] Full name and address on paperwork are correct.
-- [ ] Vehicle's "About" screen (car icon, bottom-left → Software) shows
-      nothing that doesn't match the vehicle. If ordering AWD, confirm
-      "All-Wheel Drive" appears here — verifies both motors are in the
-      build, not just the paperwork. Also confirm the main display is the
-      16" panel (standard on all US Model Y as of Oct 2026; pre-Oct builds
-      shipped with 15.4").
 - [ ] Monroney record matches your configuration (the federal window sticker
       listing trim, options, and MSRP — confirms the car was built to spec).
 - [ ] Color, interior, and wheel style match what you ordered. Current
@@ -114,10 +108,6 @@
       between glass and A-pillar should be roughly equal on both sides
       (an uneven install causes noticeable wind noise at highway speed);
       trim should sit flush with no lifting edges.
-- [ ] All 4 doors open correctly — test both the capacitive touch button
-      (normal daily use: press the wide flat area, door pops open) and the
-      manual pull tab (backup release recessed in the handle). Both should
-      work; a dead manual release is a safety issue.
 - [ ] Wheels aren't scratched; nothing is lodged in the tires (screws,
       nails, debris).
 - [ ] Tire pressures match the door-jamb placard (factory/transport
@@ -164,10 +154,14 @@ or underspray — trim and door handles included:
       front wheel, left front quarter panel, frunk — each individually,
       for scrapes/damage.
 
-### With All Doors, Frunk, and Trunk Open
+### With Access (unlocked) — Doors, Frunk, and Trunk Open
 
 - [ ] Power liftgate operates and height-adjusts correctly (sometimes the
       weather seal catches in the molding, causing a click).
+- [ ] All 4 doors open correctly — test both the capacitive touch button
+      (normal daily use: press the wide flat area, door pops open) and the
+      manual pull tab (backup release recessed in the handle). Both should
+      work; a dead manual release is a safety issue.
 - [ ] All doors (including frunk/trunk) open and close without unusual
       effort or sound — open and close each one twice; they should latch
       fully and not rub the weather seal.
@@ -175,7 +169,7 @@ or underspray — trim and door handles included:
 - [ ] Frunk/trunk lighting works (2 trunk lights).
 - [ ] Check paint in normally-hidden areas: door hinges, bottom of
       frunk/trunk, etc.
-- [ ] Turn on all exterior lights: fog, front light bar (low/high beam,
+- [ ] Turn on all exterior lights: front light bar (low/high beam,
       checking for condensation inside the housing), tail lights, reverse,
       brake (checking for condensation), turn signals (front/left/right/
       rear), running lights.
@@ -201,17 +195,23 @@ or underspray — trim and door handles included:
 - [ ] Water guards below the rear windshield are clear.
 - [ ] Roof glass panel and rear window edges are clean.
 
-### Frunk & Trunk
+### Frunk
 
 - [ ] Liner sits flat; latch catches cleanly.
 - [ ] Emergency release is visible (glow-in-the-dark button on the inner
       wall — confirm it's there before you need it).
 - [ ] Trim clips around the frunk are all attached.
 - [ ] Tow hook is included (stowed under the frunk mat).
+
+### Trunk
+
 - [ ] Cargo covers (if any) are properly attached.
 - [ ] Rear seat covers are properly attached.
 - [ ] **Lift the cargo floor** — the panel underneath should be seated
       flat; any included storage tray should be in the car.
+- [ ] **Trunk interior release** — glow-in-the-dark button on the left
+      inner wall of the cargo area; confirm it's visible and unobstructed
+      before you need it.
 
 ### Lighting Summary
 
@@ -219,7 +219,7 @@ or underspray — trim and door handles included:
 in one place if doing a dedicated lighting pass.)
 
 - [ ] Front light bar (low/high beam) — alignment, no condensation.
-- [ ] Front park lights, front fog lights.
+- [ ] Front park lights.
 - [ ] Turn on hazards: front, left/right, and rear turn signals; rear
       running lights; rear brake lights — no condensation in housings.
 
@@ -341,9 +341,12 @@ in one place if doing a dedicated lighting pass.)
       car (without opening the app) — it should lock; walk back up — it
       should unlock.
 - [ ] **Car appears in the Tesla phone app** — open the app and confirm
-      this vehicle is visible and controllable. Note the software version
-      shown on the car's About screen (car icon → Software) while you're
-      there.
+      this vehicle is visible and controllable.
+- [ ] **About screen matches your order** (car icon → Software) — confirm
+      the software version loaded, and if you ordered AWD verify "All-Wheel
+      Drive" appears here (confirms both motors in the build, not just the
+      paperwork). Also confirm the main display is the 16" panel (standard
+      on all US Model Y as of Oct 2026; pre-Oct builds shipped with 15.4").
 - [ ] **Camera glass** — the windshield area directly in front of the
       forward-facing cameras should be clean with no transport film,
       haze, or residue. A dirty patch here degrades camera performance
@@ -370,15 +373,15 @@ in one place if doing a dedicated lighting pass.)
       leaving the lot so the car handles conditions automatically from
       day one. Auto high beams are adaptive and won't blind oncoming
       traffic.
-- [ ] Blind Spot camera — enable Automatic Blind Spot Camera, signal a
-      lane change, confirm the camera image appears (as of 2026 firmware
-      this shows on the instrument cluster next to the speedometer, not
-      just the center screen). On Juniper-era cars with ambient lighting,
-      the entire cabin light strip on the relevant side pulses red when
-      something is detected in the blind spot (spring 2026 update). The
-      door-open version of this also works while parked: if a cyclist or
-      car is approaching, the lights flash red and the door won't unlatch
-      on the first press — verify this works at delivery.
+- [ ] **Enable Blind Spot Camera** (Controls > Autopilot > Automatic Blind
+      Spot Camera) — signal a lane change and confirm the camera image
+      appears (as of 2026 firmware this shows on the instrument cluster
+      next to the speedometer, not just the center screen). On Juniper-era
+      cars with ambient lighting, the entire cabin light strip on the
+      relevant side pulses red when something is detected in the blind spot
+      (spring 2026 update). The door-open version also works while parked:
+      if a cyclist or car is approaching, the lights flash red and the door
+      won't unlatch on the first press — verify this works at delivery.
 - [ ] **Tire repair kit present** — find the inflator/sealant kit in the
       cargo well (under the trunk floor). There is no spare wheel; this
       kit is your roadside flat option.
@@ -390,9 +393,10 @@ in one place if doing a dedicated lighting pass.)
       on North American deliveries as of the Juniper refresh regardless
       of trim, but confirm rather than assume — international deliveries
       and the refresh transition period have shown some variation.
-- [ ] Express Pickup note: cars leave the factory around ~50% charge; the
-      local delivery location should charge to 80–90% before handoff —
-      confirm this if picking up same-day.
+- [ ] **Check the charge level before leaving** — cars leave the factory
+      around ~50% and delivery centers vary on how much they top it up.
+      Note the current level and use the nav to find the nearest
+      Supercharger in case you need a charge before heading home.
 
 ## Optional Plans & Services
 

@@ -1,5 +1,19 @@
 # Changelog
 
+## 2026-11-21 (3)
+### Added
+- `02-delivery-day.md`: Trunk section split from Frunk — trunk interior release item added
+- `02-delivery-day.md`: Check charge level + nav to nearest Supercharger item in Functional Checks
+### Changed
+- `02-delivery-day.md`: "Frunk & Trunk" split into separate Frunk and Trunk sections
+- `02-delivery-day.md`: Section header "With All Doors, Frunk, and Trunk Open" → "With Access (unlocked) — Doors, Frunk, and Trunk Open"
+- `02-delivery-day.md`: Door handle test moved from locked section to unlocked section
+- `02-delivery-day.md`: About screen item moved from Verify Records to Functional Checks (requires car on + wizard complete); split into phone app item + About screen item
+- `02-delivery-day.md`: Blind Spot Camera item bolded and reworded to match "Enable …" parallelism
+- `02-delivery-day.md`: Express pickup charge assumption removed — replaced with neutral check-the-level item
+### Removed
+- `02-delivery-day.md`: Fog lights removed from exterior lights check and Lighting Summary (not present on Juniper RWD/AWD)
+
 ## 2026-11-21 (2)
 ### Added
 - `02-delivery-day.md`: "Print this checklist and bring a pen" as first Mindset item
