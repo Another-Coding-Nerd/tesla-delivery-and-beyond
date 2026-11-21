@@ -196,6 +196,10 @@ issues are behind you. A few things worth keeping an eye on over time:
       motors can strain or fail trying to open them. Either turn off
       auto-fold for winter (see the auto-fold item above) or manually
       unfold them before parking.
+- [ ] **Press the defrost button twice for maximum ice clearing** — one
+      press runs normal defrost; a second press forces everything on high
+      (heated windshield, mirrors, steering wheel, seats). If you've only
+      ever pressed it once, try twice — it's noticeably more aggressive.
 - [ ] **Defrost remotely via the Tesla app before you head out** — Climate
       > Defrost in the app runs the defroster and heated mirrors. Combine
       with a scheduled departure for a fully clear car before you step
@@ -204,6 +208,24 @@ issues are behind you. A few things worth keeping an eye on over time:
       Acceleration > Chill) — significantly tames the instant torque
       delivery, making the car much easier to manage on low-traction
       surfaces. Switch back to Standard when roads clear.
+- [ ] **Cold-weather Supercharging is significantly slower** — a cold
+      battery can't accept charge quickly even with preconditioning; at
+      extreme cold (-10°F) peak rates around 40 kW are realistic vs.
+      250 kW in summer. Always navigate to the Supercharger in-car so
+      the battery preconditions on the way, then plan for longer stops —
+      grab coffee, use the restroom. It's only frustrating if you don't
+      expect it.
+- [ ] **Winter road trips: target 15% arrival buffer** at each charger
+      (vs. ~5% in summer) — cold adds range uncertainty from multiple
+      directions (temperature, wind, elevation), and you don't want to
+      arrive low and find a slow or occupied stall.
+- [ ] **Clear snow off the headlights** — there's no engine heat to melt
+      it like a gas car. In heavy snow, check and clear them yourself
+      before driving.
+- [ ] **On short trips, use seat heaters instead of blasting the cabin**
+      — seat heaters warm you directly and draw far less energy than
+      heating the whole cabin. Switch to cabin heat once you're moving
+      and the battery is warmer.
 - [ ] **Know Slip Start for getting unstuck** (Controls > Dynamics) —
       temporarily disables traction control to let the wheels spin and
       break free from snow, ice, or mud. Use it only when stuck, then
@@ -284,6 +306,11 @@ issues are behind you. A few things worth keeping an eye on over time:
 
 ## Retraining Gas-Car Habits
 
+- [ ] **Switch the battery display from miles to percent** (tap the number
+      at the top of the main screen to toggle) — in winter the miles
+      number drops faster than expected and causes unnecessary anxiety.
+      Percent behaves like a phone battery: you know where you stand
+      without mapping it to a range estimate that's actively wrong.
 - [ ] **Treat the range number on the dash as a rough estimate, not gospel**
       — it's constantly recalculating based on recent driving, temperature,
       speed, and climate control use. It will shift noticeably season to

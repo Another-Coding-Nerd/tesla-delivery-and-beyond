@@ -1,5 +1,13 @@
 # Changelog
 
+## 2026-11-21
+### Added
+- `tips/features.md`: 10 new items from controls/features walkthrough — Interface & Controls section (dock customization), Climate (two-finger airflow split, rear zone off), Navigation (save favorites, tap-to-zoom toggle, Edit Trip add-stop gotcha), FSD (scroll wheel controls, three disengage methods, parking preference), Keys & Access section (Valet Mode)
+- `04-day-to-day.md`: 6 winter tips — double-press defrost for max clearing, cold Supercharging slowdown expectations, 15% winter arrival buffer, clear snow off lights, seat heaters over cabin heat on short trips, miles→percent display toggle
+### Changed
+- `02-delivery-day.md`: Juniper language pass — "Headlight fit" → "Front light bar fit" detail; "All 4 door levers" → explicit capacitive + manual pull tab check; "Tail light fit" pre-refresh caveat removed (Juniper-only guide); "Black rocker panels" + "Monroney record" + "All 4 doors" items expanded with parenthetical context; Lighting Summary updated to "front light bar"
+- `02-delivery-day.md`: Deduplication — collapsed 5 light-bar touchpoints into 1 (seams item); merged windshield install + trim items; merged weather seal + secondary seal items; dropped duplicate charge port fit from panel lap, duplicate door release from interior, locked-car tail-light condensation (lights-on check kept)
+
 ## 2026-11-20
 ### Added
 - `02-delivery-day.md`: light-bar seams, handles flush, frunk emergency release visible, cargo floor panel check, cabin light strip alignment, child-seat anchors, camera glass (transport film), NACS inlet confirmation, tire repair kit — from third-party app checklist reconciliation

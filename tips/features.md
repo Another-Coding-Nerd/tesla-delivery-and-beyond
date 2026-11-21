@@ -17,6 +17,14 @@ checklists — these are here when you need them.
       passengers can pinch to zoom, pan, and check the ETA without asking
       the driver. Worth pointing out on road trips.
 
+## Interface & Controls
+
+- [ ] **Customize the bottom dock for apps you actually use** — hold down
+      any icon in the dock to enter edit mode; drag to reorder, tap × to
+      remove, drag in from the app drawer to add. The dock is the fastest
+      path to any feature while driving; fill it with your daily apps
+      (navigation, music, climate if you adjust it often).
+
 ## Climate & Comfort
 
 - [ ] **Use Pet Mode when leaving animals in the car** (tap the fan icon >
@@ -31,6 +39,13 @@ checklists — these are here when you need them.
       without triggering the alarm or the car going to sleep. Screen dims
       to a low-light mode. The Model Y cargo area with seats folded flat
       is long enough to sleep in comfortably.
+- [ ] **Spread two fingers on the fan display to split airflow** — placing
+      two fingers on the fan direction graphic and spreading them divides
+      the flow between driver and passenger sides independently. Easy to
+      trigger by accident; fix it the same way.
+- [ ] **Turn off the rear climate zone when driving solo** — rear climate
+      runs by default and draws extra energy for no benefit when no one's
+      back there. Tap Rear in the climate panel to toggle it off.
 
 ## Navigation
 
@@ -43,6 +58,21 @@ checklists — these are here when you need them.
       starts routing to your saved home address (or work, if you're at
       home). Requires home and work addresses saved in navigation settings.
       Fastest way to start a commute.
+- [ ] **Save frequently visited places as navigation favorites** — tap any
+      search result or point of interest, then tap the star icon to name
+      and save it. Favorites appear instantly in the routing panel without
+      re-searching, faster than typing an address each trip.
+- [ ] **Tap the turn-by-turn strip to toggle map zoom** — while navigating,
+      tapping the banner at the top of the map (showing the next turn)
+      cycles between a zoomed-in local view and the full-route overview.
+      Useful on road trips when you want to see where you stand in the
+      overall route.
+- [ ] **Searching replaces your destination — hold down to add a stop
+      instead** — if you search for a new location while navigating, it
+      replaces the current destination entirely. To add a waypoint: hold
+      down on the destination in the routing panel until "Edit Trip"
+      appears, then add the new stop. Stops run top-to-bottom; hold-drag
+      to reorder.
 
 ## Full Self-Driving & Navigation Tips
 
@@ -73,3 +103,26 @@ checklists — these are here when you need them.
       destination, enable FSD before entering a destination. The car picks
       an exit direction based on immediate context; once it commits to the
       right way, then enter the destination. Works most of the time.
+- [ ] **Right scroll wheel: press to toggle FSD, scroll to adjust speed**
+      — pressing the right scroll wheel in turns FSD on or off (once
+      you're in drive). Scrolling it up or down adjusts your speed profile
+      (shown on screen); works best when the steering wheel is straight,
+      since the wheel turns with it.
+- [ ] **Know the three ways to disengage FSD before you need them** —
+      (1) tap the brake pedal: the car decelerates immediately, so be
+      ready to take over at once; (2) grab the steering wheel and apply
+      enough pressure to steer out of it; (3) press in the right scroll
+      wheel — the cleanest option when you have a moment.
+- [ ] **Set your FSD parking preference before it matters** — tap below
+      the FSD status indicator while driving to open the FSD settings
+      panel; set whether to end the trip in a parking lot, on the street,
+      or pulled over. The default may not match where you actually want
+      to stop.
+
+## Keys & Access
+
+- [ ] **Use Valet Mode when handing the car to anyone else** — tap your
+      driver profile name at the top of the controls screen → Valet Mode.
+      This limits top speed, hides navigation history, and locks the
+      glovebox. Hand them one of your physical key cards (every Tesla
+      ships with two). To exit: tap the same menu and enter your PIN.

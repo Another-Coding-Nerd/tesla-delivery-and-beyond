@@ -60,7 +60,8 @@
       nothing that doesn't match the vehicle. If ordering AWD, confirm
       "All-Wheel Drive" appears here — verifies both motors are in the
       build, not just the paperwork.
-- [ ] Monroney record matches your configuration.
+- [ ] Monroney record matches your configuration (the federal window sticker
+      listing trim, options, and MSRP — confirms the car was built to spec).
 - [ ] Color, interior, and wheel style match what you ordered. Current
       Juniper-refresh (2025+) wheel options are 19" Crossflow or 20"
       Helix 2.0; pre-refresh cars used 19" Gemini or 20" Induction — check
@@ -86,18 +87,21 @@
 
 ### Before You're Given Access (locked)
 
-- [ ] Headlight fit.
 - [ ] Paint around the front bumper's intake vents.
 - [ ] Frunk: paint defects, dents, or signs of improper closing near the T
       logo.
 - [ ] Hood sits flush with quarter panels and frunk.
-- [ ] Windshield installed properly — gaps between glass and A-pillar
-      should be roughly equal on both sides. An uneven install causes
-      noticeable wind noise at highway speed.
+- [ ] Windshield installed properly and trim seated correctly — gaps
+      between glass and A-pillar should be roughly equal on both sides
+      (an uneven install causes noticeable wind noise at highway speed);
+      trim should sit flush with no lifting edges.
 - [ ] Panel gaps are even and panels sit flush overall.
 - [ ] Bottom side trim is flush with the bottom of the doors; check for
       trim stains.
-- [ ] All 4 door levers function.
+- [ ] All 4 doors open correctly — test both the capacitive touch button
+      (normal daily use: press the wide flat area, door pops open) and the
+      manual pull tab (backup release recessed in the handle). Both should
+      work; a dead manual release is a safety issue.
 - [ ] Wheels aren't scratched; nothing is lodged in the tires (screws,
       nails, debris).
 - [ ] Tire pressures match the door-jamb placard (factory/transport
@@ -106,20 +110,14 @@
 - [ ] All 4 hubcaps present and properly attached.
 - [ ] No dings on pillars.
 - [ ] Paint and door jambs — no chipped panel corners.
-- [ ] Black rocker panels aren't damaged.
-- [ ] Tail light fit — full-width light-bar design on current Juniper-era
-      (2025+) cars, discrete lamp on pre-refresh cars.
-      > Known issue (pre-refresh cars only): tail light (passenger side)
-      > not flush with panel — no standard fix as of the 2024 source. The
-      > redesigned Juniper-era full-width taillight doesn't have this
-      > specific defect reported; if buying pre-refresh inventory, still
-      > worth checking.
+- [ ] Black rocker panels aren't damaged (the plastic strips running along
+      the lower body between the front and rear wheels — high exposure to
+      road debris and curb rash).
 - [ ] **Light-bar seams** — both the front and rear light bars should sit
       evenly in their housings with no popped clips or dark segments. Run
       your eye along the full length of each bar.
 - [ ] Charging port fit (driver's side); door handles sit flush — nothing
       sticking out or sitting in a pocket.
-- [ ] Tail lights for condensation.
 - [ ] Undercarriage — look for scratches, dents, damage, missing
       components, missing screws, or screws sticking out.
       > Fix: needs a 10mm wrench — ask the service center to inspect all
@@ -130,7 +128,7 @@
       present (2 per front wheel well, 4 per rear) with nuts attached.
       > Fix: mobile service can correct this in minutes if pins/nuts are
       > missing.
-- [ ] Alignment/gaps around headlights, trunk arms, roof, frunk.
+- [ ] Alignment/gaps around trunk arms, roof, and frunk.
 
 ### Panel Gaps & Paint Walkaround (doors closed)
 
@@ -139,8 +137,6 @@ or underspray — trim and door handles included:
 
 - [ ] Front of frunk aligns with the bumper.
 - [ ] Trunk arms align with left/right quarter panels.
-- [ ] Headlights and rear lights are flush with the body.
-- [ ] Charging port flush with the body.
 - [ ] Front bumper, right front quarter panel, right front wheel, right
       passenger door, right rear door, right rear wheel, right rear
       quarter panel, trunk, rear bumper, left rear quarter panel, left
@@ -176,14 +172,13 @@ or underspray — trim and door handles included:
       source can skip auto-lowering the window when opening the door,
       which causes this. *(Verify this bug is still current — likely
       software-patchable.)*
-- [ ] Weather seals around door gaps and windows are intact.
-- [ ] Water guards below the rear windshield are clear.
-- [ ] Windshield and windshield trim properly installed.
-- [ ] Roof glass panel and rear window edges are clean.
-- [ ] Rubber seal is properly attached at the bottom of all 4 doors
-      (Tesla calls it a "secondary seal").
+- [ ] Weather seals around door gaps and windows are intact; rubber seal
+      properly attached at the bottom of all 4 doors (Tesla calls it a
+      "secondary seal") — run a finger along the full length of each.
       > Known issue: loose seal on driver door bottom — fix is a service
       > center replacement.
+- [ ] Water guards below the rear windshield are clear.
+- [ ] Roof glass panel and rear window edges are clean.
 
 ### Frunk & Trunk
 
@@ -203,7 +198,7 @@ or underspray — trim and door handles included:
 (Cross-check against the exterior sections above — this is the full list
 in one place if doing a dedicated lighting pass.)
 
-- [ ] Front headlights (low/high beam) — alignment, no condensation.
+- [ ] Front light bar (low/high beam) — alignment, no condensation.
 - [ ] Front park lights, front fog lights.
 - [ ] Turn on hazards: front, left/right, and rear turn signals; rear
       running lights; rear brake lights — no condensation in housings.
@@ -289,7 +284,6 @@ in one place if doing a dedicated lighting pass.)
 
 **Get out of the driver's seat:**
 
-- [ ] Driver and passenger door emergency releases work gently.
 - [ ] Puddle lights (driver/passenger), rear door pocket lighting, door
       latch button lights, door window button lights all work.
 - [ ] Front, rear, and middle seatbelts operate properly.
