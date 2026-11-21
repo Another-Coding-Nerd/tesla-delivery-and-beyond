@@ -13,8 +13,10 @@
 - [ ] Confirm you have paper copies of all purchase paperwork, including
       the signed purchase agreement — get paper even if told you can pull
       documents electronically later.
-- [ ] Visit and check the local Supercharger while you're still near the
-      delivery center, if you haven't already.
+- [ ] Visit the local Supercharger while you're still near the delivery
+      center and confirm the car accepts a charge — plug in, verify the
+      charge port light pulses and charging begins on screen. First real
+      confirmation that the charging hardware works end-to-end.
 - [ ] When your registration arrives, confirm it lists the correct
       trim/configuration (AWD/RWD, Standard/Premium/Performance, etc.) —
       a mismatch can affect insurance coverage and resale value later.
@@ -57,6 +59,9 @@
       > The primary account holder must still explicitly add them as a
       > driver via the steps above. Don't assume co-registration = app
       > access; do this before you leave the delivery center.
+- [ ] **Test Park Assist** — press brake, shift to Drive/Reverse, and slowly
+      approach a fixed obstacle (cone, bollard, wall) to confirm proximity
+      warnings appear on screen.
 - [ ] **Turn on "Apply brakes when regen is limited"** (Controls > Dynamics)
       — when the battery is cold or near full, regenerative braking weakens
       and the car can feel like it has no engine braking. This setting

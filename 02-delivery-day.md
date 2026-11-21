@@ -2,14 +2,20 @@
 
 ## Delivery Day Mindset
 
+- [ ] **Print this checklist and bring a pen** — don't rely on a phone
+      screen at delivery. You'll be juggling keys, paperwork, and a camera;
+      a paper checklist keeps your hands free and gives you a written
+      record of what you checked and what you flagged.
 - [ ] Budget real time — a thorough pass through this list easily takes
       90+ minutes. Don't rush because staff seem eager to move you along;
       you don't have to leave the lot until you're satisfied.
-- [ ] If possible, pick up at an express checkout site — Tesla parks the
-      car and leaves paperwork on the dash, giving you unhurried time to
-      inspect before signing. Note: express sites are often staffed by
-      temporary/low-level staff who can't resolve problems on the spot —
-      issues found there usually mean scheduling a follow-up appointment.
+- [ ] **Know your pickup site type before you go** — express checkout sites
+      (Tesla parks the car, paperwork on the dash) give you unhurried time
+      to inspect, but staff are often temporary and can't resolve problems
+      on the spot; issues found there mean scheduling a follow-up service
+      appointment. Traditional delivery centers have staff who can sometimes
+      address problems immediately but may pressure you to move faster.
+      Either way, take the time you need.
 - [ ] Don't schedule pickup at dusk or later — you need daylight (or a
       flashlight, see pre-delivery) to actually see defects.
 - [ ] **Avoid end-of-quarter delivery if you can** — Tesla pushes hard to
@@ -24,6 +30,12 @@
       baked into the video proves condition at delivery and covers you if
       something surfaces after you drive off. Faster than photographing
       every panel individually and captures context a static photo misses.
+- [ ] **Before signing, write down everything you want addressed and get
+      the rep to acknowledge it** — paint issues, fit problems, missing
+      parts. A verbal "we'll take care of it" is worth nothing after you
+      sign; a written note with the rep's initials is at least something.
+      Agree on the fix path (service appointment, mobile service, etc.)
+      before you hand over payment.
 - [ ] Don't sign final documents or wire remaining funds until you've
       completed a full inspection — once signed, you've accepted the car
       as-is for anything outside warranty coverage.
@@ -44,6 +56,13 @@
 
 ## Verify Records Match Your Order
 
+- [ ] **Insurance is active and lists this VIN** — confirm the policy is in
+      force today and covers this specific vehicle. Bring proof you can
+      show at handover if asked.
+- [ ] **If transferring FSD from another Tesla, start the transfer before
+      signing** — go to your previous car's Tesla account, initiate the
+      FSD transfer, and confirm it's in progress before you put pen to the
+      new paperwork. Can't be done after the sale closes.
 - [ ] Vehicle VIN matches your paperwork and the vehicle's own VIN.
       The VIN's physical location varies by factory: windshield (driver
       side bottom) and door jamb label on all cars; Fremont builds also
@@ -59,7 +78,9 @@
 - [ ] Vehicle's "About" screen (car icon, bottom-left → Software) shows
       nothing that doesn't match the vehicle. If ordering AWD, confirm
       "All-Wheel Drive" appears here — verifies both motors are in the
-      build, not just the paperwork.
+      build, not just the paperwork. Also confirm the main display is the
+      16" panel (standard on all US Model Y as of Oct 2026; pre-Oct builds
+      shipped with 15.4").
 - [ ] Monroney record matches your configuration (the federal window sticker
       listing trim, options, and MSRP — confirms the car was built to spec).
 - [ ] Color, interior, and wheel style match what you ordered. Current
@@ -87,17 +108,12 @@
 
 ### Before You're Given Access (locked)
 
-- [ ] Paint around the front bumper's intake vents.
 - [ ] Frunk: paint defects, dents, or signs of improper closing near the T
       logo.
-- [ ] Hood sits flush with quarter panels and frunk.
 - [ ] Windshield installed properly and trim seated correctly — gaps
       between glass and A-pillar should be roughly equal on both sides
       (an uneven install causes noticeable wind noise at highway speed);
       trim should sit flush with no lifting edges.
-- [ ] Panel gaps are even and panels sit flush overall.
-- [ ] Bottom side trim is flush with the bottom of the doors; check for
-      trim stains.
 - [ ] All 4 doors open correctly — test both the capacitive touch button
       (normal daily use: press the wide flat area, door pops open) and the
       manual pull tab (backup release recessed in the handle). Both should
@@ -109,7 +125,6 @@
       the delivery center's).
 - [ ] All 4 hubcaps present and properly attached.
 - [ ] No dings on pillars.
-- [ ] Paint and door jambs — no chipped panel corners.
 - [ ] Black rocker panels aren't damaged (the plastic strips running along
       the lower body between the front and rear wheels — high exposure to
       road debris and curb rash).
@@ -128,20 +143,26 @@
       present (2 per front wheel well, 4 per rear) with nuts attached.
       > Fix: mobile service can correct this in minutes if pins/nuts are
       > missing.
-- [ ] Alignment/gaps around trunk arms, roof, and frunk.
 
 ### Panel Gaps & Paint Walkaround (doors closed)
 
 Do a full lap, checking for misalignment, gaps, scrapes, dents, overspray,
 or underspray — trim and door handles included:
 
+- [ ] Hood sits flush with quarter panels and frunk.
+- [ ] Panel gaps are even and panels sit flush overall.
+- [ ] Bottom side trim is flush with the bottom of the doors; check for
+      trim stains.
+- [ ] Alignment/gaps around trunk arms, roof, and frunk.
+- [ ] Paint and door jambs — no chipped panel corners.
 - [ ] Front of frunk aligns with the bumper.
 - [ ] Trunk arms align with left/right quarter panels.
-- [ ] Front bumper, right front quarter panel, right front wheel, right
-      passenger door, right rear door, right rear wheel, right rear
-      quarter panel, trunk, rear bumper, left rear quarter panel, left
-      rear wheel, left rear door, driver's door, left front wheel, left
-      front quarter panel, frunk — each individually, for scrapes/damage.
+- [ ] Front bumper (including intake vents), right front quarter panel,
+      right front wheel, right passenger door, right rear door, right
+      rear wheel, right rear quarter panel, trunk, rear bumper, left rear
+      quarter panel, left rear wheel, left rear door, driver's door, left
+      front wheel, left front quarter panel, frunk — each individually,
+      for scrapes/damage.
 
 ### With All Doors, Frunk, and Trunk Open
 
@@ -154,7 +175,7 @@ or underspray — trim and door handles included:
 - [ ] Frunk/trunk lighting works (2 trunk lights).
 - [ ] Check paint in normally-hidden areas: door hinges, bottom of
       frunk/trunk, etc.
-- [ ] Turn on all exterior lights: fog, headlights (low/high beam,
+- [ ] Turn on all exterior lights: fog, front light bar (low/high beam,
       checking for condensation inside the housing), tail lights, reverse,
       brake (checking for condensation), turn signals (front/left/right/
       rear), running lights.
@@ -182,7 +203,6 @@ or underspray — trim and door handles included:
 
 ### Frunk & Trunk
 
-- [ ] Opens and closes properly.
 - [ ] Liner sits flat; latch catches cleanly.
 - [ ] Emergency release is visible (glow-in-the-dark button on the inner
       wall — confirm it's there before you need it).
@@ -205,6 +225,12 @@ in one place if doing a dedicated lighting pass.)
 
 ## Interior Inspection
 
+> **If this is the car's first power-on, the setup wizard launches
+> automatically** — let it run to completion before proceeding. See
+> the first item under Functional Checks for what to confirm during the
+> wizard. All checks in this section are mechanical or visual and don't
+> depend on the wizard having run.
+
 **Sit in the driver's seat:**
 
 - [ ] No error messages on the display.
@@ -214,11 +240,15 @@ in one place if doing a dedicated lighting pass.)
       well), not a defect.
 - [ ] Rearview camera works.
 - [ ] Side mirrors fold and adjust position correctly; no warping or
-      distortion in the rearview mirror.
+      distortion in the rearview mirror. Also confirm auto-fold works
+      (Controls > Mirrors > Mirror Auto Fold) — mirrors should fold when
+      you lock and walk away, unfold when you unlock.
 - [ ] Steering wheel position controls work; horn works (press center).
 - [ ] Sun visors, visor mirror, and visor lighting work.
 - [ ] Front overhead driver/passenger lights, center console slide +
-      compartment lights, glovebox open/close + lighting all work.
+      compartment lights, glovebox lighting all work. Open the glovebox
+      via the touchscreen (Controls > Glovebox — no physical button);
+      it closes manually with a push.
       > Confirm the USB drive for Sentry Mode / Dashcam is present in the
       > glovebox. If it hasn't been pre-formatted by Tesla, format it
       > before leaving: Controls > Safety > Format USB Drive. Formatting
@@ -244,31 +274,17 @@ in one place if doing a dedicated lighting pass.)
 - [ ] HVAC — run hot and cold at full power and listen for strange
       noises; forcing the heat pump to kick in (temperature to either
       extreme) is a good stress test.
-- [ ] Park Assist — press brake, shift to Drive/Reverse, and slowly approach
-      a fixed obstacle (cone, bollard, wall) to confirm proximity warnings
-      appear on screen.
-- [ ] Blind Spot camera — enable Automatic Blind Spot Camera, signal a
-      lane change, confirm the camera image appears (as of 2026 firmware
-      this shows on the instrument cluster next to the speedometer, not
-      just the center screen). On Juniper-era cars with ambient lighting,
-      the entire cabin light strip on the relevant side pulses red when
-      something is detected in the blind spot (spring 2026 update). The
-      door-open version of this also works while parked: if a cyclist or
-      car is approaching, the lights flash red and the door won't unlatch
-      on the first press — verify this works at delivery.
 - [ ] Turn signal stalk actuates smoothly.
 - [ ] Gear selection works correctly (reverse, neutral, park). Pre-refresh
       cars: steering-column shift stalk. Juniper-era (2025+) cars: swipe
       up/down on the touchscreen (chime confirms each shift); also confirm
       the backup "P" button on the overhead console engages Park if the
       touchscreen is unavailable.
-- [ ] Metal accelerator and brake pedal arms — some units have mismatched
-      finish (matte accelerator, glossy brake) and a visible weld on the
-      brake pedal arm; inspect if this concerns you.
 - [ ] Sound system — play a familiar track, check all speakers via
       balance/fader, listen for unexpected clicks.
-- [ ] Toybox → Sketchpad app: leave it open for a minute and watch for
-      phantom touches or dead pixels.
+- [ ] **Dead pixel / phantom touch test** — open Toybox → Sketchpad, leave
+      it on for a minute, and watch for dead pixels or spots that register
+      touches without input.
 
 **Elsewhere in the cabin:**
 
@@ -296,9 +312,14 @@ in one place if doing a dedicated lighting pass.)
       catch on the rear trunk floor carpet when folding.
 - [ ] Rear passenger touchscreen (8", Juniper-era) powers on and responds
       to touch, if equipped.
-- [ ] Lift the bottom of the back seats — confirm it's securely attached
-      to its base.
+- [ ] Lift each rear seat cushion and let it drop — it should latch firmly
+      and not rock or sit loose.
 - [ ] Rear left/right overhead lights work.
+- [ ] **Interior manual door releases** — locate the mechanical release
+      inside each door and confirm you can reach it without difficulty.
+      Front: pull handle above the window switches. Rear: small pull tab
+      tucked in the door panel near the latch. These are the emergency
+      exits if the power system fails; find them now, not later.
 
 ## Functional Checks
 
@@ -319,6 +340,10 @@ in one place if doing a dedicated lighting pass.)
       features work. Test phone-as-key specifically: walk away from the
       car (without opening the app) — it should lock; walk back up — it
       should unlock.
+- [ ] **Car appears in the Tesla phone app** — open the app and confirm
+      this vehicle is visible and controllable. Note the software version
+      shown on the car's About screen (car icon → Software) while you're
+      there.
 - [ ] **Camera glass** — the windshield area directly in front of the
       forward-facing cameras should be clean with no transport film,
       haze, or residue. A dirty patch here degrades camera performance
@@ -337,11 +362,29 @@ in one place if doing a dedicated lighting pass.)
       manual driving, not just Autopilot; the Autopilot menu is just
       where Tesla buried the setting. No reason to leave it on the
       default Late.
-- [ ] Vehicle accepts a charge at the delivery-center Supercharger, if
-      available.
+- [ ] **Enable Park Assist** (Controls > Autopilot > Park Assist) — confirm
+      it's on before leaving the lot; test proximity warnings in your first
+      24 hours.
+- [ ] **Enable auto wipers, auto headlights, and auto high beams**
+      (Controls > Lights) — all three default to off; set them before
+      leaving the lot so the car handles conditions automatically from
+      day one. Auto high beams are adaptive and won't blind oncoming
+      traffic.
+- [ ] Blind Spot camera — enable Automatic Blind Spot Camera, signal a
+      lane change, confirm the camera image appears (as of 2026 firmware
+      this shows on the instrument cluster next to the speedometer, not
+      just the center screen). On Juniper-era cars with ambient lighting,
+      the entire cabin light strip on the relevant side pulses red when
+      something is detected in the blind spot (spring 2026 update). The
+      door-open version of this also works while parked: if a cyclist or
+      car is approaching, the lights flash red and the door won't unlatch
+      on the first press — verify this works at delivery.
 - [ ] **Tire repair kit present** — find the inflator/sealant kit in the
       cargo well (under the trunk floor). There is no spare wheel; this
       kit is your roadside flat option.
+- [ ] **Confirm V2L (vehicle-to-load) hardware is in the build** — standard
+      on US Model Y Premium since Aug 2026; allows powering external devices
+      via an adapter. Hardware is not retrofittable — verify before signing.
 - [ ] Mobile Connector (with NEMA 5-15/14-50 adapters) and J1772 adapter
       are included — check under the frunk mat or in the trunk. Standard
       on North American deliveries as of the Juniper refresh regardless
@@ -351,48 +394,20 @@ in one place if doing a dedicated lighting pass.)
       local delivery location should charge to 80–90% before handoff —
       confirm this if picking up same-day.
 
-## Upcoming Features
+## Optional Plans & Services
 
-Tesla regularly announces and rolls out new features to Model Y. This section
-is for features announced or recently in rollout that may not yet be standard
-across all configurations and production timing. As features become universally
-available and documented, they migrate into the sections above.
+Consider purchasing around delivery — most have enrollment windows that
+close shortly after delivery:
 
-**At delivery, check software version and capabilities**: car icon > Software >
-About (note the version); Controls > Service. Availability varies by trim,
-configuration, and production timing — a missing feature isn't a defect if
-it hasn't reached your build yet.
-
-**Full sourcing and status history:** `upcoming-features.md`
-
-### Verify at delivery
-
-- [ ] **16" center display** — standard on all US Model Y as of Oct 1, 2026
-      (pre-Oct builds shipped with 15.4"). The upgrade also bumped resolution
-      from 1080p to QHD (1440p). Confirm the main screen is the larger 16"
-      panel; check Controls > About if unsure.
-- [ ] **V2L (vehicle-to-load) hardware** — standard on US Model Y Premium
-      since Aug 2026. Allows the car to power external devices (tools,
-      camping, power outage backup) via an adapter. Hardware must be present
-      in the build — not retrofittable — so confirm before accepting delivery.
-- [ ] **Front camera sealed housing + auto-cleaning** — in Juniper Model Y
-      production since ~Jan 2026. Sealed anti-fog housing with washer-fluid
-      pulse + air-burst cleaning when the lens is occluded. Physical
-      hardware tied to build date, not a software update — verify your VIN
-      includes it (ask the delivery rep or check build paperwork).
-
-### Watch tier (not yet on US consumer Model Y)
-
-- [ ] **Side-repeater camera airflow pod** — passive sculpted housing that
-      sheds water/grime from side camera lenses. Cybertruck only as of
-      Sep 2026; no announcement for consumer Model Y yet.
-- [ ] **Zen Grey interior** — replaces white on Premium trims. Live in China
-      and Europe (Aug 2026); not yet on US Model Y Premium. The US
-      configurator still showing white interior = changeover hasn't hit yet.
-- [ ] **Longer wheelbase on standard 5-seat Model Y** — unconfirmed rumor
-      that Tesla will migrate the standard Model Y (not just the L 6-seater)
-      to the longer wheelbase platform. No official announcement; low
-      confidence. Monitor for any Tesla production or configurator changes.
+- [ ] **Glass/windshield protection plan** — covers chips and cracks from
+      road debris. The Model Y's large windshield is expensive to replace;
+      a protection plan can pay for itself on a single claim. Available
+      through Tesla and third-party providers (Safelite, insurance riders,
+      etc.) — compare coverage limits and deductibles before choosing.
+- [ ] **Tire & wheel protection plan** — covers road hazard damage (flats,
+      sidewall punctures, bent wheels). There is no spare on the Model Y,
+      so a roadside flat means a tow or the repair kit; a tire plan adds a
+      replacement path. Available through Tesla or third-party providers.
 
 ## Optional Equipment (if ordered)
 

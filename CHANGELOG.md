@@ -1,5 +1,29 @@
 # Changelog
 
+## 2026-11-21 (2)
+### Added
+- `02-delivery-day.md`: "Print this checklist and bring a pen" as first Mindset item
+- `02-delivery-day.md`: "Write down everything and get rep to acknowledge before signing" Mindset item
+- `02-delivery-day.md`: Insurance active day-of + FSD transfer reminder to Verify Records (from app checklist gap analysis)
+- `02-delivery-day.md`: 16" display confirmation folded into About screen item
+- `02-delivery-day.md`: Interior manual door releases item (end of cabin section) — from app checklist gap
+- `02-delivery-day.md`: "Car appears in Tesla phone app" item in Functional Checks — from app checklist gap
+- `02-delivery-day.md`: Park Assist enable + auto wipers/headlights/high beams + Blind Spot camera consolidated into Functional Checks settings block
+- `02-delivery-day.md`: V2L hardware verification in Functional Checks
+- `02-delivery-day.md`: Optional Plans & Services section (glass/windshield + tire & wheel protection plans)
+- `03-first-24-hours.md`: Supercharger visit expanded to confirm car accepts a charge end-to-end
+- `03-first-24-hours.md`: Park Assist proximity test item
+- `app-pics/app-checklist-verbatim.md`: Verbatim markdown transcription of all 8 app checklist sections (46 items) from screenshots
+### Changed
+- `02-delivery-day.md`: Express checkout item reframed as neutral tradeoff (time vs. on-site resolution) instead of a recommendation
+- `02-delivery-day.md`: Rear seat cushion item updated to explicit drop-and-latch test (from app checklist gap)
+- `02-delivery-day.md`: "headlights" → "front light bar" in exterior lights item (Juniper has full-width bar)
+### Removed
+- `02-delivery-day.md`: "Opens and closes properly" from Frunk & Trunk (redundant with with-doors-open section)
+- `02-delivery-day.md`: Upcoming Features section moved to `upcoming-features.md`
+- `02-delivery-day.md`: Metal pedal arms item (not applicable to standard trims)
+- `02-delivery-day.md`: "Vehicle accepts a charge" moved to `03-first-24-hours.md`
+
 ## 2026-11-21
 ### Added
 - `tips/features.md`: 10 new items from controls/features walkthrough — Interface & Controls section (dock customization), Climate (two-finger airflow split, rear zone off), Navigation (save favorites, tap-to-zoom toggle, Edit Trip add-stop gotcha), FSD (scroll wheel controls, three disengage methods, parking preference), Keys & Access section (Valet Mode)
